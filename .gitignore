@@ -209,3 +209,4 @@ __marimo__/
 # Didactical folders to be ignored
 solutions/
 outputs/
+models/
